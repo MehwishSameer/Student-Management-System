@@ -1,1 +1,0 @@
-Mehwish ,Sameer ,CS201189 ,1D2 ,1 ,Female ,22/aug/2003 ,03948291048 ,mehwsih@gmail.com ,81 Sara ,Fahad ,CS201123 ,1C1 ,Female ,1/mar/2002 ,03735560291 ,Sara@gmail.com ,92 Areesha ,Rehan ,CS201009 ,1E2 ,Female ,13/dec/2002 ,03968261495 ,Areesha@gmail.com ,68 Farhan ,Arshad ,CS201156 ,1E1 ,male ,20/jun/2003 ,03261428327 ,Farhan@gmail.com ,72 
